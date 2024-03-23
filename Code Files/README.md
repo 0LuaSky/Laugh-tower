@@ -1,1 +1,1 @@
-Here you will find the code files for the game, if you want to se how it has made (please do not steal). /// Aqui você ira encontrar os arquivos do codigo do jogo, caso você queira ver como foi feito (por favor não roube).
+Here you will find the code files for the game, if you want to se how it has made (please do not steal). To see it rigth you will need GameMaker Studio 2. /// Aqui você ira encontrar os arquivos do codigo do jogo, caso você queira ver como foi feito (por favor não roube). Para ver completo sera preciso o GameMaker Studio 2.
