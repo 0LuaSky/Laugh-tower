@@ -1,2 +1,1 @@
-# Laugh-Tower
- A game made during the Global Game jam 2024
+Here you will find the code files for the game, if you want to se how it has made (please do not steal). /// Aqui você ira encontrar os arquivos do codigo do jogo, caso você queira ver como foi feito (por favor não roube).
