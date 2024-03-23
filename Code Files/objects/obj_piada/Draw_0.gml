@@ -1,0 +1,1 @@
+draw_text_scribble_ext(x,y,text[pagina], 330)
